@@ -91,7 +91,7 @@ mysql\> select \* from user;
 创建dept表，有id,name字段
 -------------------------
 
-![](media/image2.png){width="5.768055555555556in"
+![image]( https://github.com/leemin01/leemin01.Github.io/blob/master/_posts/jdbc01.files/image002.png){width="5.768055555555556in"
 height="4.398141951006124in"}
 
 ![](media/image3.png){width="5.768055555555556in"
