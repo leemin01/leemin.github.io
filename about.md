@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "乱七八糟笔记" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+没有自我介绍
 
 
 
