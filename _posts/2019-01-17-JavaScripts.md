@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript
-date: 2019-1-14
+date: 2019-1-17
 categories: blog
 tags: [javaStudy]
 description: JavaScript。
