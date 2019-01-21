@@ -11,8 +11,6 @@ description: JavaScript。
 * 目录
 {:toc}
 
-1.  JavaScript
-
 JavaScript概述
 ==============
 
